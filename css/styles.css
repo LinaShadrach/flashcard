@@ -2,10 +2,10 @@
   display: none;
 }
 
-.term {
-  display:none;
-}
-
 .appear {
   display: block;
+}
+
+.disappear {
+  display: none;
 }
